@@ -45,7 +45,7 @@ At VX Software, we believe in:
 
 Ready to elevate your research or streamline your industrial processes? Contact us today to learn how VX Software can help you achieve your goals.
 
-[Contact Us](software.vxco@gmail.com)
+[Contact Us](mailto:software.vxco@gmail.com)
 
 ---
 
