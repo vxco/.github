@@ -1,5 +1,4 @@
-# VX Software
-## Where simple solutions meet complex problems
+# Where simple solutions meet complex problems
 
 
 Welcome to VX Software, we specialize in cutting-edge solutions for niche usecases. Our innovative software tools are designed to meet the complex challenges of modern research and industry applications.
