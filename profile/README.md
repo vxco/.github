@@ -21,7 +21,7 @@ VANTAGE revolutionizes particle analysis with its advanced tracking and extracti
 
 PHASe takes particle characterization to new heights. This sophisticated software provides detailed analysis of particle dimensions, with a focus on height measurements. PHASe offers:
 
-- High-resolution 3D particle mapping
+- Pixel-based particle height analysis with angle specification
 - Advanced statistical analysis tools
 - Customizable reporting features
 
