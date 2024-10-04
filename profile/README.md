@@ -3,7 +3,7 @@
 
 Welcome to VX Software, we specialize in cutting-edge solutions for niche usecases. Our innovative software tools are designed to meet the complex challenges of modern research and industry applications.
 
-### Our Project
+### Our Projects
 
 #### VANTAGE
 **Vision Assisted Nanoparticle Tracking and Guided Extraction**
