@@ -25,8 +25,8 @@ PHASe takes particle characterization to new heights. This sophisticated softwar
 - Advanced statistical analysis tools
 - Customizable reporting features
 
-\ [Discover PHASe →](https://github.com/vxco/PHASe)
-\ [Download PHASe →](https://github.com/vxco/PHASe/releases/latest)
+<br>  [Discover PHASe →](https://github.com/vxco/PHASe)
+<br>  [Download PHASe →](https://github.com/vxco/PHASe/releases/latest)
 
 #### VANTAGE
 **Vision Assisted Nanoparticle Tracking and Guided Extraction**
@@ -37,8 +37,8 @@ VANTAGE revolutionizes particle analysis with its advanced tracking and extracti
 - Perform guided extractions with unprecedented precision
 - Analyze particle behavior in complex environments
 
-\ [Discover SYTDL →](ttps://github.com/vxco/sytdl)
-\ [Download SYTDL →](https://github.com/vxco/sytdl/releases/latest)
+<br> [Discover SYTDL →](ttps://github.com/vxco/sytdl)
+<br> [Download SYTDL →](https://github.com/vxco/sytdl/releases/latest)
 
 ---
 
