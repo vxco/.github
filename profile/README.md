@@ -26,38 +26,25 @@ PHASe takes particle characterization to new heights. This sophisticated softwar
 - Customizable reporting features
 
 <br>  [Discover PHASe →](https://github.com/vxco/PHASe)
-<br> 
 <br>  [Download PHASe →](https://github.com/vxco/PHASe/releases/latest)
 
-#### VANTAGE
-**Vision Assisted Nanoparticle Tracking and Guided Extraction**
+#### SYTDL
+**Simit's YouTube Downloader**
 
-VANTAGE revolutionizes particle analysis with its advanced tracking and extraction capabilities. This powerful software combines state-of-the-art computer vision algorithms with intuitive user interfaces, enabling researchers and technicians to:
+A simple Qt Based Youtube Downloader using pytubefix.
 
-- Accurately track nanoparticles in real-time
-- Perform guided extractions with unprecedented precision
-- Analyze particle behavior in complex environments
+- Download YouTube Videos at the Highest Quality
+- Search for videos with the built-in search function
+- Manage Simultaneous Downloads with the ARGOS manager
 
-<br> [Discover SYTDL →](https://github.com/vxco/sytdl)
-<br> 
+<br> [Discover SYTDL →](ttps://github.com/vxco/sytdl)
 <br> [Download SYTDL →](https://github.com/vxco/sytdl/releases/latest)
-
----
-
-### Why Choose VX Software?
-
-At VX Software, we believe in:
-
-1. **Innovation**: Constantly pushing the boundaries of what's possible in the software field.
-2. **Simplicity**: Creating user-friendly interfaces for tools.
-3. **Precision**: Delivering accurate results you can trust.
-4. **Support**: Providing expert assistance to ensure your problem meet its solution.
 
 ---
 
 ### Get in Touch
 
-Ready to elevate your research or streamline your industrial processes? Contact us today to learn how VX Software can help you achieve your goals.
+Ready to elevate your research procedures or automate your industrial processes? Contact us today to learn how VX Software can help you achieve your goals.
 
 [Contact Us](mailto:software.vxco@gmail.com)
 
