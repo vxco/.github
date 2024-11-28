@@ -37,7 +37,7 @@ A simple Qt Based Youtube Downloader using pytubefix.
 - Search for videos with the built-in search function
 - Manage Simultaneous Downloads with the ARGOS manager
 
-<br> [Discover SYTDL →](ttps://github.com/vxco/sytdl)
+<br> [Discover SYTDL →](https://github.com/vxco/sytdl)
 <br> [Download SYTDL →](https://github.com/vxco/sytdl/releases/latest)
 
 ---
