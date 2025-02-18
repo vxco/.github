@@ -1,8 +1,8 @@
 # Solutions for All
 
 
-## Projects
----
+### Projects
+
 
 #### > VANTAGE - Vision Assisted Nanoparticle Tracking and Guided Extraction
 
