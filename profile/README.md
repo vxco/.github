@@ -1,4 +1,4 @@
-# Where complex problems meet their simple solutions
+# Solutions for All
 
 
 ### Projects
@@ -6,43 +6,34 @@
 #### VANTAGE
 **Vision Assisted Nanoparticle Tracking and Guided Extraction**
 
-VANTAGE revolutionizes particle analysis with its advanced tracking and extraction capabilities. This powerful software combines state-of-the-art computer vision algorithms with intuitive user interfaces, enabling researchers and technicians to:
-
-- Accurately track nanoparticles in real-time
-- Perform guided extractions with unprecedented precision
-- Analyze particle behavior in complex environments
-
-[Learn more about VANTAGE →](https://vxco.github.io/VANTAGE/)
+VANTAGE revolutionizes particle analysis with its advanced tracking and extraction capabilities.
 
 #### PHASe
 **Particle Height Analysis Software**
 
-PHASe takes particle characterization to new heights. This sophisticated software provides detailed analysis of particle dimensions, with a focus on height measurements. PHASe offers:
-
-- Pixel-based particle height analysis with angle specification
-- Advanced statistical analysis tools
-- Customizable reporting features
-
-<br>  [Discover PHASe →](https://github.com/vxco/PHASe)
-<br>  [Download PHASe →](https://github.com/vxco/PHASe/releases/latest)
+PHASe takes particle analysis to new heights. It provides simple analysis of particle positions within imaged capilalry systems.
 
 #### SYTDL
-**Simit's YouTube Downloader**
+**Simple YouTube Downloader**
 
-A simple Qt Based Youtube Downloader using pytubefix.
+A simple Qt Based Youtube Downloader using pytubefix, with capability of downloading up to 8K.
 
-- Download YouTube Videos at the Highest Quality
-- Search for videos with the built-in search function
-- Manage Simultaneous Downloads with the ARGOS manager
-
-<br> [Discover SYTDL →](https://github.com/vxco/sytdl)
 <br> [Download SYTDL →](https://github.com/vxco/sytdl/releases/latest)
 
+#### BunMapP
+**Bundle me a Python program!**
+
+A simple python program bundler. Used lovingly since 2024, released 2025 for public!
+
+#### DART
+**Data Access & Reformating Tool**
+
+Barebones CSV Explorer and reformatting tool with a focus on filtering.
 ---
 
 ### Get in Touch
 
-Ready to elevate your research procedures or automate your industrial processes? Contact us today to learn how VX Software can help you achieve your goals.
+Ready to elevate your research procedures or automate your industrial processes? Contact us today to learn how VX Software can help you achieve your solution.
 
 [Contact Us](mailto:software.vxco@gmail.com)
 
