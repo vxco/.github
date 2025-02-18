@@ -30,4 +30,4 @@ Barebones CSV Explorer and reformatting tool with a focus on filtering.
 
 ---
 
-© 2024 VX Software. All rights reserved.
+© 2025 VX Software. All rights reserved.
