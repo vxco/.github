@@ -24,8 +24,7 @@
 
 - Barebones CSV Explorer and reformatting tool with a focus on filtering.
 
-## Get in Touch
-Contact Us | contact@vxco.tech
----
+## Get in Touch -> contact@vxco.tech
+
 
 © 2025 VX Software. All rights reserved.
