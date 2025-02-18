@@ -23,13 +23,10 @@ A simple python program bundler. Used lovingly since 2024, released 2025 for pub
 #### > DART - Data Access & Reformating Tool
 
 Barebones CSV Explorer and reformatting tool with a focus on filtering.
----
 
 ### Get in Touch
 
-Ready to elevate your research procedures or automate your industrial processes? Contact us today to learn how VX Software can help you achieve your solution.
-
-[Contact Us](mailto:software.vxco@gmail.com)
+[Contact Us](mailto:contact@vxco.tech) | contact@vxco.tech
 
 ---
 
